@@ -1,4 +1,4 @@
-# ibmGit
+# simple-interest-calculator
 # Proyecto Web de Gestión de Tareas
 
 Aplicación web desarrollada para facilitar la organización y seguimiento de tareas personales y de equipos. Permite crear, editar, eliminar y clasificar tareas según su estado de avance, prioridad y fecha límite.
